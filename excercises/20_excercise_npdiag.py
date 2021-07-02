@@ -14,4 +14,6 @@ Tip: Use the np.diag() function
 
 import numpy as np
 
-
+print(np.arange(6))
+print('----------')
+print(np.diag(np.arange(6)))
